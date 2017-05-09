@@ -8,6 +8,5 @@ First you need to install [Docker](https://www.docker.com/community-edition#/dow
 Then to run SHOREmap run the following commands in the terminal:
 
 ```
-docker pull danielwells/SHOREmap
-docker run -it danielwells/SHOREmap
+docker run -it danielwells/shoremap
 ```
