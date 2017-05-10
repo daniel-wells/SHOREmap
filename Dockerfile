@@ -38,4 +38,4 @@ RUN wget http://bioinfo.mpipz.mpg.de/shoremap/SHOREmap_v3.4.tar.gz -P softwares 
 
 ENV PATH $PATH:/softwares/SHOREmap_v3.4/
 
-ENTRYPOINT SHOREmap
+ENTRYPOINT ["SHOREmap"]
