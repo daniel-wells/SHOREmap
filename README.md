@@ -1,4 +1,4 @@
-# SHOREmap
+# Docker SHOREmap
 This repository contains the Dockerfile for creating an image with the [SHOREmap](http://shoremap.org) software preinstalled.
 This enables easy cross-platform usage of the SHOREmap package without complicated installation procedure.
 
